@@ -1,7 +1,8 @@
-package com.jamesnyakush.workmanager
+package com.jamesnyakush.workmanager.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jamesnyakush.workmanager.R
 
 class MainActivity : AppCompatActivity() {
 
